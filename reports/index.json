@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260507-224442-pt6l",
+      "title": "Masnuelinn",
+      "commanders": [
+        "Masnuelinn"
+      ],
+      "dateStart": "2026-05-07T20:44:42.000Z",
+      "dateEnd": "2026-05-07T21:58:38.000Z",
+      "dateLabel": "7/5/2026, 22:44:42 - 7/5/2026, 23:58:38",
+      "url": "https://7p5cmv229z-ops.github.io/wvw/?report=20260507-224442-pt6l",
+      "summary": {
+        "borderlandsPct": 0.6521739130434783,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260504-221655-z19w",
       "title": "Darks Traya, Sicherheitszündholz",
       "commanders": [
