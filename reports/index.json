@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260508-210126-aeur",
+      "title": "Gunnar Eisenfaust",
+      "commanders": [
+        "Gunnar Eisenfaust"
+      ],
+      "dateStart": "2026-05-08T19:01:26.000Z",
+      "dateEnd": "2026-05-08T19:38:34.000Z",
+      "dateLabel": "8/5/2026, 21:01:26 - 8/5/2026, 21:38:34",
+      "url": "https://7p5cmv229z-ops.github.io/wvw/?report=20260508-210126-aeur",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 9
+      }
+    },
+    {
       "id": "20260507-224442-pt6l",
       "title": "Masnuelinn",
       "commanders": [
