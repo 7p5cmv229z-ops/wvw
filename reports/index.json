@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260510-231456-w1j7",
+      "title": "Masnuelinn",
+      "commanders": [
+        "Masnuelinn"
+      ],
+      "dateStart": "2026-05-10T21:14:56.000Z",
+      "dateEnd": "2026-05-10T21:57:14.000Z",
+      "dateLabel": "10/5/2026, 23:14:56 - 10/5/2026, 23:57:14",
+      "url": "https://7p5cmv229z-ops.github.io/wvw/?report=20260510-231456-w1j7",
+      "summary": {
+        "borderlandsPct": 0.10344827586206896,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260508-210126-aeur",
       "title": "Gunnar Eisenfaust",
       "commanders": [
