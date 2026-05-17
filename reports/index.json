@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260517-221737-nrkh",
+      "title": "Ordino Divino",
+      "commanders": [
+        "Ordino Divino"
+      ],
+      "dateStart": "2026-05-17T20:17:37.000Z",
+      "dateEnd": "2026-05-17T21:28:34.000Z",
+      "dateLabel": "17/5/2026, 22:17:37 - 17/5/2026, 23:28:34",
+      "url": "https://7p5cmv229z-ops.github.io/wvw/?report=20260517-221737-nrkh",
+      "summary": {
+        "borderlandsPct": 0.5769230769230769,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260514-222522-a5l9",
       "title": "Masnuelinn",
       "commanders": [
