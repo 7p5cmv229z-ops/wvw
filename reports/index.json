@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260603-231335-vuee",
+      "title": "Lord Dictador, Obelix Gainskeeper",
+      "commanders": [
+        "Lord Dictador",
+        "Obelix Gainskeeper"
+      ],
+      "dateStart": "2026-06-03T21:13:35.000Z",
+      "dateEnd": "2026-06-03T21:59:54.000Z",
+      "dateLabel": "3/6/2026, 23:13:35 - 3/6/2026, 23:59:54",
+      "url": "https://7p5cmv229z-ops.github.io/wvw/?report=20260603-231335-vuee",
+      "summary": {
+        "borderlandsPct": 0.5757575757575758,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 19,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260528-232359-fqc2",
       "title": "Masnuelinx",
       "commanders": [
