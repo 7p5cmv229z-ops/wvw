@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260621-222338-aw26",
+      "title": "Masnuelinn",
+      "commanders": [
+        "Masnuelinn"
+      ],
+      "dateStart": "2026-06-21T20:23:38.000Z",
+      "dateEnd": "2026-06-21T21:50:39.000Z",
+      "dateLabel": "21/6/2026, 22:23:38 - 21/6/2026, 23:50:39",
+      "url": "https://7p5cmv229z-ops.github.io/wvw/?report=20260621-222338-aw26",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260616-221950-anii",
       "title": "Masnuelinn",
       "commanders": [
