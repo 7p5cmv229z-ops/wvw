@@ -4,6 +4,46 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260701-235605-lxo0",
+      "title": "A K Baba, Masnuelinn, Selgon Sly",
+      "commanders": [
+        "A K Baba",
+        "Masnuelinn",
+        "Selgon Sly"
+      ],
+      "dateStart": "2026-07-01T21:56:05.000Z",
+      "dateEnd": "2026-07-02T21:34:59.000Z",
+      "dateLabel": "1/7/2026, 23:56:05 - 2/7/2026, 23:34:59",
+      "url": "https://7p5cmv229z-ops.github.io/wvw/?report=20260701-235605-lxo0",
+      "summary": {
+        "borderlandsPct": 0.875,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260630-224110-npqx",
       "title": "Masnuelinx",
       "commanders": [
