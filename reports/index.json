@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260705-221242-ai4r",
+      "title": "Masnuelinx",
+      "commanders": [
+        "Masnuelinx"
+      ],
+      "dateStart": "2026-07-05T20:12:42.000Z",
+      "dateEnd": "2026-07-05T21:13:59.000Z",
+      "dateLabel": "5/7/2026, 22:12:42 - 5/7/2026, 23:13:59",
+      "url": "https://7p5cmv229z-ops.github.io/wvw/?report=20260705-221242-ai4r",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260705-221242-5epp",
       "title": "Masnuelinx",
       "commanders": [
