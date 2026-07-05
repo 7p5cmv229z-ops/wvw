@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260704-224914-zuvg",
+      "title": "Unstoppable Finger",
+      "commanders": [
+        "Unstoppable Finger"
+      ],
+      "dateStart": "2026-07-04T20:49:14.000Z",
+      "dateEnd": "2026-07-04T21:47:27.000Z",
+      "dateLabel": "4/7/2026, 22:49:14 - 4/7/2026, 23:47:27",
+      "url": "https://7p5cmv229z-ops.github.io/wvw/?report=20260704-224914-zuvg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260701-235605-lxo0",
       "title": "A K Baba, Masnuelinn, Selgon Sly",
       "commanders": [
