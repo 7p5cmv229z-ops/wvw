@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260718-222831-vpyn",
+      "title": "Mika Galera",
+      "commanders": [
+        "Mika Galera"
+      ],
+      "dateStart": "2026-07-18T20:28:31.000Z",
+      "dateEnd": "2026-07-18T21:19:41.000Z",
+      "dateLabel": "18/7/2026, 22:28:31 - 18/7/2026, 23:19:41",
+      "url": "https://7p5cmv229z-ops.github.io/wvw/?report=20260718-222831-vpyn",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 55,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260716-222201-ugmr",
       "title": "Masnuelinx",
       "commanders": [
