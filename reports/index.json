@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260721-220725-xnea",
+      "title": "Masnuelinx",
+      "commanders": [
+        "Masnuelinx"
+      ],
+      "dateStart": "2026-07-21T20:07:25.000Z",
+      "dateEnd": "2026-07-21T20:48:50.000Z",
+      "dateLabel": "21/7/2026, 22:07:25 - 21/7/2026, 22:48:50",
+      "url": "https://7p5cmv229z-ops.github.io/wvw/?report=20260721-220725-xnea",
+      "summary": {
+        "borderlandsPct": 0.5925925925925926,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260718-222831-vpyn",
       "title": "Mika Galera",
       "commanders": [
