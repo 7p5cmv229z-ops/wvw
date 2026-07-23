@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260723-221616-e6rf",
+      "title": "Masnuelinx",
+      "commanders": [
+        "Masnuelinx"
+      ],
+      "dateStart": "2026-07-23T20:16:16.000Z",
+      "dateEnd": "2026-07-23T21:16:41.000Z",
+      "dateLabel": "23/7/2026, 22:16:16 - 23/7/2026, 23:16:41",
+      "url": "https://7p5cmv229z-ops.github.io/wvw/?report=20260723-221616-e6rf",
+      "summary": {
+        "borderlandsPct": 0.76,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260721-220725-xnea",
       "title": "Masnuelinx",
       "commanders": [
