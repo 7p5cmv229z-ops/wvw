@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260813-205142-3xej",
+      "title": "Unstoppable Finger",
+      "commanders": [
+        "Unstoppable Finger"
+      ],
+      "guild": {
+        "id": "2E0CD308-6D3B-EE11-BA1F-06F2763BE7D0",
+        "name": "Totally Inept Tactical Squad",
+        "tag": "JUGS"
+      },
+      "dateStart": "2026-08-13T18:51:42.000Z",
+      "dateEnd": "2026-08-13T19:22:56.000Z",
+      "dateLabel": "13/8/2026, 20:51:42 - 13/8/2026, 21:22:56",
+      "url": "https://7p5cmv229z-ops.github.io/wvw/?report=20260813-205142-3xej",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 23,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260809-221746-k6tc",
       "title": "Masnuelinx",
       "commanders": [
