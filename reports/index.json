@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260813-220610-ykoi",
+      "title": "Masnuelinn",
+      "commanders": [
+        "Masnuelinn"
+      ],
+      "guild": {
+        "id": "6C45F3C8-F21C-EF11-81AB-8B4A188BDE13",
+        "name": "Dolyak Sanctuary",
+        "tag": "YaK"
+      },
+      "dateStart": "2026-08-13T20:06:10.000Z",
+      "dateEnd": "2026-08-13T20:33:54.000Z",
+      "dateLabel": "13/8/2026, 22:06:10 - 13/8/2026, 22:33:54",
+      "url": "https://7p5cmv229z-ops.github.io/wvw/?report=20260813-220610-ykoi",
+      "summary": {
+        "borderlandsPct": 0.8055555555555556,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260813-205142-3xej",
       "title": "Unstoppable Finger",
       "commanders": [
