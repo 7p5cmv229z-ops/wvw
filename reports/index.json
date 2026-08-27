@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260827-221144-z8ed",
+      "title": "Masnuelinx",
+      "commanders": [
+        "Masnuelinx"
+      ],
+      "guild": {
+        "id": "6C45F3C8-F21C-EF11-81AB-8B4A188BDE13",
+        "name": "Dolyak Sanctuary",
+        "tag": "YaK"
+      },
+      "dateStart": "2026-08-27T20:11:44.000Z",
+      "dateEnd": "2026-08-27T21:06:49.748Z",
+      "dateLabel": "27/8/2026, 22:11:44 - 27/8/2026, 23:06:49",
+      "url": "https://7p5cmv229z-ops.github.io/wvw/?report=20260827-221144-z8ed",
+      "summary": {
+        "borderlandsPct": 0.05405405405405406,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260823-220942-i5jd",
       "title": "Masnuelinx",
       "commanders": [
