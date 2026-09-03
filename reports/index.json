@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260903-105626-0krk",
+      "title": "Masnuelinx, Ninus Báal",
+      "commanders": [
+        "Masnuelinx",
+        "Ninus Báal"
+      ],
+      "guild": {
+        "id": "6C45F3C8-F21C-EF11-81AB-8B4A188BDE13",
+        "name": "Dolyak Sanctuary",
+        "tag": "YaK"
+      },
+      "dateStart": "2026-09-03T08:56:26.000Z",
+      "dateEnd": "2026-09-03T21:27:43.445Z",
+      "dateLabel": "3/9/2026, 10:56:26 - 3/9/2026, 23:27:43",
+      "url": "https://7p5cmv229z-ops.github.io/wvw/?report=20260903-105626-0krk",
+      "summary": {
+        "borderlandsPct": 0.36363636363636365,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260830-221310-s516",
       "title": "Masnuelinn",
       "commanders": [
